@@ -1,0 +1,66 @@
+package q9;
+
+import A3.e;
+import m5.b;
+
+public final class j {
+    public final String a;
+    public final String b;
+    public final String c;
+    public final String d;
+    public final String e;
+
+    public j(String s, String s1, String s2, String s3, String s4) {
+        Nb.j.f(s, "agentUfid");
+        Nb.j.f(s1, "principalMobile");
+        Nb.j.f(s2, "principalName");
+        Nb.j.f(s3, "agentCity");
+        Nb.j.f(s4, "agentSubcity");
+        super();
+        this.a = s;
+        this.b = s1;
+        this.c = s2;
+        this.d = s3;
+        this.e = s4;
+    }
+
+    @Override
+    public final boolean equals(Object object0) {
+        if(this == object0) {
+            return true;
+        }
+        if(!(object0 instanceof j)) {
+            return false;
+        }
+        if(!Nb.j.a(this.a, ((j)object0).a)) {
+            return false;
+        }
+        if(!Nb.j.a(this.b, ((j)object0).b)) {
+            return false;
+        }
+        if(!Nb.j.a(this.c, ((j)object0).c)) {
+            return false;
+        }
+        return Nb.j.a(this.d, ((j)object0).d) ? Nb.j.a(this.e, ((j)object0).e) : false;
+    }
+
+    @Override
+    public final int hashCode() {
+        return this.e.hashCode() + e.s(e.s(e.s(this.a.hashCode() * 0x1F, 0x1F, this.b), 0x1F, this.c), 0x1F, this.d);
+    }
+
+    @Override
+    public final String toString() {
+        StringBuilder stringBuilder0 = new StringBuilder("AgentLocation(agentUfid=");
+        stringBuilder0.append(this.a);
+        stringBuilder0.append(", principalMobile=");
+        stringBuilder0.append(this.b);
+        stringBuilder0.append(", principalName=");
+        stringBuilder0.append(this.c);
+        stringBuilder0.append(", agentCity=");
+        stringBuilder0.append(this.d);
+        stringBuilder0.append(", agentSubcity=");
+        return b.y(stringBuilder0, this.e, ")");
+    }
+}
+

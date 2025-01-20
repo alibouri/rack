@@ -1,0 +1,20 @@
+package com.sendwave.backend.type;
+
+import Nb.j;
+import android.os.Parcel;
+import android.os.Parcelable.Creator;
+
+public final class n4 implements Parcelable.Creator {
+    @Override  // android.os.Parcelable$Creator
+    public final Object createFromParcel(Parcel parcel0) {
+        j.f(parcel0, "parcel");
+        parcel0.readInt();
+        return SELF_SERVE_PIN_RECOVERY_VERIFICATION_EASIER_KYC2.X;
+    }
+
+    @Override  // android.os.Parcelable$Creator
+    public final Object[] newArray(int v) {
+        return new SELF_SERVE_PIN_RECOVERY_VERIFICATION_EASIER_KYC2[v];
+    }
+}
+

@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/dx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/jsr305-3.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/jsoup-1.16.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/objenesis-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/byte-buddy-1.14.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/commons-io-2.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/jython-standalone-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/okio-1.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/commons-configuration2-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/netty-all-4.1.34.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/d8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/jna-5.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/jebi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/okhttp-3.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/guava-32.0.1-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/jeb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/z3-4.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/jna-platform-5.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/commons-compress-1.23.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/jep-4.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/zip4j-2.11.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/sqlite-jdbc-3.42.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/snakeyaml-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/jface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/commons-text-1.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/jebc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/apksigner-0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/xpp3-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/xz-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/lz4-java-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/antlr4-runtime-4.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

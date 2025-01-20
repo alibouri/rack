@@ -1,0 +1,98 @@
+package h8;
+
+import e8.h;
+import e8.i;
+import java.net.InetAddress;
+import java.net.URI;
+import java.net.URL;
+import java.util.BitSet;
+import java.util.Currency;
+import java.util.Locale;
+import java.util.UUID;
+import java.util.concurrent.atomic.AtomicBoolean;
+import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.atomic.AtomicIntegerArray;
+
+public abstract class n {
+    public static final l A;
+    public static final a B;
+    public static final l a;
+    public static final l b;
+    public static final h c;
+    public static final m d;
+    public static final m e;
+    public static final m f;
+    public static final m g;
+    public static final l h;
+    public static final l i;
+    public static final l j;
+    public static final h k;
+    public static final l l;
+    public static final m m;
+    public static final h n;
+    public static final h o;
+    public static final l p;
+    public static final l q;
+    public static final l r;
+    public static final l s;
+    public static final l t;
+    public static final l u;
+    public static final l v;
+    public static final l w;
+    public static final a x;
+    public static final c y;
+    public static final l z;
+
+    static {
+        i i0 = new i(new h(12), 2);
+        n.a = new l(Class.class, i0, 0);
+        i i1 = new i(new h(22), 2);
+        n.b = new l(BitSet.class, i1, 0);
+        h h0 = new h(23);
+        n.c = new h(24);
+        n.d = new m(Boolean.TYPE, Boolean.class, h0);
+        h h1 = new h(25);
+        n.e = new m(Byte.TYPE, Byte.class, h1);
+        h h2 = new h(26);
+        n.f = new m(Short.TYPE, Short.class, h2);
+        h h3 = new h(27);
+        n.g = new m(Integer.TYPE, Integer.class, h3);
+        i i2 = new i(new h(28), 2);
+        n.h = new l(AtomicInteger.class, i2, 0);
+        i i3 = new i(new h(29), 2);
+        n.i = new l(AtomicBoolean.class, i3, 0);
+        i i4 = new i(new h(2), 2);
+        n.j = new l(AtomicIntegerArray.class, i4, 0);
+        n.k = new h(3);
+        h h4 = new h(6);
+        n.l = new l(Number.class, h4, 0);
+        h h5 = new h(7);
+        n.m = new m(Character.TYPE, Character.class, h5);
+        h h6 = new h(8);
+        n.n = new h(9);
+        n.o = new h(10);
+        n.p = new l(String.class, h6, 0);
+        h h7 = new h(11);
+        n.q = new l(StringBuilder.class, h7, 0);
+        h h8 = new h(13);
+        n.r = new l(StringBuffer.class, h8, 0);
+        h h9 = new h(14);
+        n.s = new l(URL.class, h9, 0);
+        h h10 = new h(15);
+        n.t = new l(URI.class, h10, 0);
+        h h11 = new h(16);
+        n.u = new l(InetAddress.class, h11, 1);
+        h h12 = new h(17);
+        n.v = new l(UUID.class, h12, 0);
+        i i5 = new i(new h(18), 2);
+        n.w = new l(Currency.class, i5, 0);
+        n.x = new a(5);
+        n.y = new c(3, new h(19));
+        h h13 = new h(20);
+        n.z = new l(Locale.class, h13, 0);
+        h h14 = new h(21);
+        n.A = new l(e8.m.class, h14, 1);
+        n.B = new a(6);
+    }
+}
+
